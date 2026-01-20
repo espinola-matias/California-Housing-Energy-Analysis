@@ -1,0 +1,9 @@
+# Ignorar carpetas de datos
+data/
+
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
