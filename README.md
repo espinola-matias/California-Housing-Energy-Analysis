@@ -20,6 +20,6 @@ Estudio exploratorio sobre los factores que determinan el valor de la vivienda.
 * **Integridad de Datos:** Manejo de límites artificiales en variables críticas.
 
 ### 2. Optimización Energética (España, Francia, Portugal)
-Análisis de series temporales de precios SPOT entre 2014 y 2019.
+Análisis de series temporales de precios SPOT entre 2014 y 2018.
 * **Correlación Transnacional:** Se detectó una correlación del 0.99 entre España y Portugal frente a un 0.60 con Francia.
 * **Estacionalidad:** Identificación de "ventanas de ahorro" en primavera mediante mapas de calor.

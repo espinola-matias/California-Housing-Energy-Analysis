@@ -1,0 +1,6 @@
+Conclusion General del Proyecto
+Dimension Inmobiliaria (California): 
+El analisis determino que el exito de una inversion en esta region depende criticamente del Ingreso Medio de la zona y la Cercania al Oceano. Se identificaron zonas de alta plusvalia, pero tambien una barrera de precios que debe ser considerada para proyecciones de retorno de inversion real
+
+Dimensión Energética (España, Francia, Portugal):
+El estudio de series temporales revelo que, mientras España y Portugal ofrecen un mercado unificado y predecible (correlacion 0.99), Francia actua como un regulador de riesgo con comportamientos de precio independientes (correlacion 0.60). La identificacion de "ventanas de ahorro" estacionales permite reducir costos operativos hasta en un 20% durante los meses de primavera
